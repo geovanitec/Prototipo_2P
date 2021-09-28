@@ -1,0 +1,11 @@
+C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaVista\obj\Debug\CapaVista.Contenedor.resources
+C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache

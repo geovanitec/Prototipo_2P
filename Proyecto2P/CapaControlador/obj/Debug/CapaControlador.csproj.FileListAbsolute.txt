@@ -1,0 +1,9 @@
+C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaControlador\bin\Debug\CapaModelor.dll
+C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaControlador\bin\Debug\CapaModelor.pdb
+C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
