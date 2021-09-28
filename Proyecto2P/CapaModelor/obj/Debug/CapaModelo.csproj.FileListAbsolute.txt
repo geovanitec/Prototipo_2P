@@ -4,3 +4,9 @@ C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaModelor\obj\Debug
 C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaModelor\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
 C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaModelor\obj\Debug\CapaModelor.dll
 C:\Users\geova\Escritorio\Examen_SegundoParcial\Proyecto2P\CapaModelor\obj\Debug\CapaModelor.pdb
+C:\Users\geova\Escritorio\SEGUNDOPARCIAL\Proyecto2P\CapaModelor\bin\Debug\CapaModelor.dll
+C:\Users\geova\Escritorio\SEGUNDOPARCIAL\Proyecto2P\CapaModelor\bin\Debug\CapaModelor.pdb
+C:\Users\geova\Escritorio\SEGUNDOPARCIAL\Proyecto2P\CapaModelor\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+C:\Users\geova\Escritorio\SEGUNDOPARCIAL\Proyecto2P\CapaModelor\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\geova\Escritorio\SEGUNDOPARCIAL\Proyecto2P\CapaModelor\obj\Debug\CapaModelor.dll
+C:\Users\geova\Escritorio\SEGUNDOPARCIAL\Proyecto2P\CapaModelor\obj\Debug\CapaModelor.pdb

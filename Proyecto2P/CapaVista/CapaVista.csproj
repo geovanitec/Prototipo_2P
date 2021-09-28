@@ -76,6 +76,15 @@
     <EmbeddedResource Include="Contenedor.resx">
       <DependentUpon>Contenedor.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmCliente.resx">
+      <DependentUpon>frmCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHabitacion.resx">
+      <DependentUpon>frmHabitacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReservacion.resx">
+      <DependentUpon>frmReservacion.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
